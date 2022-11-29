@@ -1,5 +1,5 @@
-# LavaTlias
-LavaTlias é um estabelecimento onde há as opções de lavar ou pedir para um mecânico análisar o seu veiculo(Meca-Jato como eu gosto de chamar). LavaTlias foi feito apartir da utilização de Django, CSS, Python, SQlite.
+# Lava Tlias
+Lava Tlias é um estabelecimento onde há as opções de lavar ou pedir para um mecânico análisar o seu veiculo(Meca-Jato como eu gosto de chamar). Lava Tlias foi feito apartir da utilização de Django, CSS, Python, SQlite.
 # Funcionalidades e Tecnologias usadas para o desenvolvimento
 O Projeto conta com cadastros de clientes, veiculos, pedidos, gerenciamento de pedidos, extração de pdf com informações dos pedidos, envio de email, etc
 
